@@ -1,0 +1,12 @@
+{
+  "image_size": 128,
+  "input_channels": 3,
+  "base_filters": 32,
+  "threshold": 0.5,
+  "best_validation_dice": 0.7342,
+  "training_minutes": 7.8,
+  "dataset": "LGG MRI Segmentation (mateuszbuda/lgg-mri-segmentation)",
+  "train_slices": 2760,
+  "validation_slices": 571,
+  "test_slices": 598
+}
